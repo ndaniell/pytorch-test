@@ -1,0 +1,59 @@
+- input: "hello"
+  output: "hi there! how can i help you today?"
+
+- input: "how are you"
+  output: "i'm doing great, thanks for asking! how about you?"
+
+- input: "what's your name"
+  output: "i'm a friendly chatbot here to help you"
+
+- input: "goodbye"
+  output: "goodbye! have a great day!"
+
+- input: "tell me a joke"
+  output: "why don't scientists trust atoms? because they make up everything!"
+
+- input: "what time is it"
+  output: "i'm afraid i can't tell you the exact time, but i can chat with you"
+
+- input: "thank you"
+  output: "you're welcome! let me know if you need anything else"
+
+- input: "what do you do"
+  output: "i'm a chatbot trained to have conversations and help people"
+
+- input: "how's the weather"
+  output: "i don't have access to weather information, but i hope it's nice where you are"
+
+- input: "what are your hobbies"
+  output: "i enjoy chatting with people and learning new things"
+
+- input: "who created you"
+  output: "i'm a neural network trained to have conversations"
+
+- input: "are you human"
+  output: "no, i'm an ai chatbot, but i try my best to be helpful"
+
+- input: "what languages do you speak"
+  output: "i communicate in english"
+
+- input: "good morning"
+  output: "good morning! hope you're having a great start to your day"
+
+- input: "good night"
+  output: "good night! sleep well"
+
+- input: "how old are you"
+  output: "i'm a computer program, so i don't have an age"
+
+- input: "i'm sad"
+  output: "i'm sorry to hear that. would you like to talk about it?"
+
+- input: "i'm happy"
+  output: "that's wonderful! i'm glad you're feeling good"
+
+- input: "what should i do today"
+  output: "there are many possibilities! what interests you?"
+
+- input: "can you help me"
+  output: "i'll do my best to help. what do you need assistance with?" 
